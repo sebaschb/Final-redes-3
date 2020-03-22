@@ -1,0 +1,70 @@
+.symbol{
+    padding: 5px 0px;
+    width: 60px;
+    height: 40px;
+}
+
+.vote-btn{
+    margin-left: 285px;
+    background-color: blueviolet;
+    color: white;
+}
+
+.vote-btn:hover{
+    background-color: #3a2166;
+    color: white;
+}
+
+.title{
+    background-color: blueviolet;
+    color: white;
+    margin-top: 0px;
+    height: 60px;
+}
+
+.title-text{
+    padding-top: 12px;
+}
+
+.select-label{
+    padding-top: 6px;
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+.form-group{
+    display: flex;
+    margin-left: 100px;
+    padding: 10px;
+    padding-bottom: 30px;
+}
+
+.form-control {
+    width: auto;
+    margin-left: 100px;
+}
+
+.table>thead>tr>th{
+    border-bottom: 0.5px solid #9400d3;
+}
+
+.table>tbody>tr>td{
+    border-top: 0.05px solid #b19cd9;
+}
+
+.table>tbody>tr>th{
+    border-top: 0.05px solid #b19cd9;
+}
+
+.parties-list{
+    margin-top: 40px;
+}
+
+.account-info{
+    padding-top: 30px;
+    font-size: 20px;
+}
+
+#accountAddress{
+    color: blueviolet;
+}
