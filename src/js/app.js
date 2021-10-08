@@ -94,16 +94,16 @@ App = {
           var symbol;
 
           if(id == 1){
-            symbol = `<img class="symbol" src="images/bjp.png" alt="bjp symbol" />`;
+            symbol = `<img class="symbol" src="images/candidato1.jpg" alt="bjp symbol" />`;
           }
           else if(id == 2){
-            symbol = `<img class="symbol" src="images/shivsena.jpg" alt="shivsena symbol" />`;
+            symbol = `<img class="symbol" src="images/candidato2.png" alt="shivsena symbol" />`;
           }
           else if(id == 3){
-            symbol = `<img class="symbol" src="images/congress.png" alt="congress symbol" />`;
+            symbol = `<img class="symbol" src="images/candidato3.jpg" alt="congress symbol" />`;
           }
           else if(id == 4){
-            symbol = `<img class="symbol" src="images/ncp.png" alt="ncp symbol" />`;
+            symbol = `<img class="symbol" src="images/candidato4.jpg" alt="ncp symbol" />`;
           }
 
           // Render candidate Result

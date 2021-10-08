@@ -24,10 +24,10 @@ contract Election
 
     // constructor
     constructor() public {
-        addCandidate("BJP");
-        addCandidate("Shivsena");
-        addCandidate("Congress");
-        addCandidate("NCP");
+        addCandidate("Gustavo Petro");
+        addCandidate("Sergio Fajardo");
+        addCandidate("Juan Manuel Galan");
+        addCandidate("Maria Fernanda Cabal");
     }
 
     // adding candidates
